@@ -84,5 +84,16 @@
 - Advanced admin analytics dashboard for insights and reporting.
 
 ---
+## Screenshots Preview
+
+<img src="screenshots/SS1.png" width="200" height="400"/> <img src="screenshots/SS2.PNG" width="200" height="400"/> <img src="screenshots/SS3.png" width="200" height="400"/>
+
+<img src="screenshots/SS4.png" width="200" height="400"/> <img src="screenshots/SS5.PNG" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS6.png" alt="Vegetable List" width="200" height="400"/>
+
+<img src="screenshots/SS7.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS8.PNG" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS9.png" alt="Vegetable List" width="200" height="400"/>
+
+<img src="screenshots/SS10.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS11.PNG" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS12.png" alt="Vegetable List" width="200" height="400"/>
+
+<img src="screenshots/SS13.png" alt="Vegetable List" width="200" height="400"/>
 
 **InoxPress** demonstrates a practical, production-ready mobile app integrating modern cloud backend services and payment solutions — perfect for showcasing your full-stack development skills in mobile ecosystems.
