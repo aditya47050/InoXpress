@@ -86,13 +86,13 @@
 ---
 ## Screenshots Preview
 
-<img src="screenshots/SS1.png" width="200" height="400"/> <img src="screenshots/SS2.PNG" width="200" height="400"/> <img src="screenshots/SS3.png" width="200" height="400"/>
+<img src="screenshots/SS1.png" width="200" height="400"/> <img src="screenshots/SS2.png" width="200" height="400"/> <img src="screenshots/SS3.png" width="200" height="400"/>
 
-<img src="screenshots/SS4.png" width="200" height="400"/> <img src="screenshots/SS5.PNG" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS6.png" alt="Vegetable List" width="200" height="400"/>
+<img src="screenshots/SS4.png" width="200" height="400"/> <img src="screenshots/SS5.png" width="200" height="400"/> <img src="screenshots/SS6.png" width="200" height="400"/>
 
-<img src="screenshots/SS7.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS8.PNG" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS9.png" alt="Vegetable List" width="200" height="400"/>
+<img src="screenshots/SS7.png" width="200" height="400"/> <img src="screenshots/SS8.png" width="200" height="400"/> <img src="screenshots/SS9.png" width="200" height="400"/>
 
-<img src="screenshots/SS10.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS11.PNG" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/SS12.png" alt="Vegetable List" width="200" height="400"/>
+<img src="screenshots/SS10.png" width="200" height="400"/> <img src="screenshots/SS11.png" width="200" height="400"/> <img src="screenshots/SS12.png" width="200" height="400"/>
 
 <img src="screenshots/SS13.png" alt="Vegetable List" width="200" height="400"/>
 
